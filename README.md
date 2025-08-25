@@ -20,7 +20,6 @@ CineMatch is an intelligent, real-time movie discovery platform that combines Th
 ### 🤖 **AI-Powered Recommendations**
 - **Hybrid Recommendation Engine** - Combines content-based and collaborative filtering
 - **Mood-Based Suggestions** - AI analyzes sentiment from reviews and descriptions
-- **Temporal Intelligence** - Season, holiday, and time-of-day aware recommendations
 - **Continuous Learning** - Adapts to changing user preferences in real-time
 
 ### 🎬 **Real-Time Movie Discovery**
@@ -37,7 +36,6 @@ CineMatch is an intelligent, real-time movie discovery platform that combines Th
 
 ### ⭐ **Enhanced User Experience**
 - **Personal Rating System** with predictive suggestions
-- **Watchlist Intelligence** - Smart organization and recommendations
 - **Viewing History Analysis** - Pattern recognition and taste evolution
 - **Interactive Visualizations** - D3.js powered movie connection graphs
 
