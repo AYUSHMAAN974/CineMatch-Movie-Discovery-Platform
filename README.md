@@ -285,9 +285,6 @@ python -m pytest model_tests/ -v
 - Add comprehensive tests for ML models
 - Update API documentation for new endpoints
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
