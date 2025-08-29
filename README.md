@@ -107,8 +107,8 @@ CineMatch is an intelligent, real-time movie discovery platform that combines Th
 4. **Start Background Tasks**
    ```bash
    cd backend
-   celery -A app.celery worker --loglevel=info  # New terminal
-   celery -A app.celery beat --loglevel=info    # Another terminal
+   celery -A app.core.celery_app worker --loglevel=info  # New terminal
+   celery -A app.core.celery_app beat --loglevel=info    # Another terminal
    ```
 
 5. **Access the application**
